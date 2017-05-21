@@ -6,3 +6,122 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+
+body{
+       
+    margin: 0px;
+ 	font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+.caja1 {
+	width:auto; 
+	height: 100px;
+	background-color: #F78E69;
+	margin-bottom: 0px;
+	color: whitesmoke;
+	padding: 0px 0;
+	text-align: right;
+	
+}
+
+.panda1 {
+	
+    background-image: url(../img/uno.jpg);
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-color: green;
+    filter: grayscale(100%);
+
+}
+
+.borde1{
+  border-bottom: 30px solid #F78E69 ;
+
+}
+
+.caja2{
+
+	background-color: #ABE188;
+	margin-bottom: 0px;
+	color: whitesmoke;
+	padding:30px 0;
+	display: block;
+	text-align: center;
+	border-bottom: 30px solid #F78E69 ;
+
+}
+
+  #texto {
+
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 30px;
+    background-color: #F78E69;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    display: inline-block;
+	
+    
+}
+
+.panda2 {
+	background-image: url(../img/dos.jpg);
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-color: green;
+    filter: grayscale(100%);
+
+}
+
+.borde3 {
+	border-bottom: 30px solid #F78E69 ;
+}
+
+.caja3{
+	background-color: #ABE188;
+	margin-bottom: 0px;
+	color: whitesmoke;
+	padding:100px 0;
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	border-bottom: 30px solid #F78E69 ;
+
+
+}
+
+.panda3{
+
+	background-image: url(../img/tres.jpg);
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-color: green;
+    filter: grayscale(100%);
+
+}  
+
+#uno, #dos, #tres, #cuatro{
+	box-sizing: padding-box;
+	float: center; 
+	border: 7px solid white;
+	margin: 10px;
+
+}
+
+.borde4 {
+	border-bottom: 30px solid #F78E69 ;
+	
+}
+
